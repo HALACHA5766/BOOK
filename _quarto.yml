@@ -33,5 +33,6 @@ format:
     mainfont: "Assistant" # Or "David Libre", "Frank Ruhl Libre"
     fontsize: 11pt
   epub:
+    toc: true
   docx:
     toc: true
