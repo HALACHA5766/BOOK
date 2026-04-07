@@ -5,6 +5,7 @@ lang: he
 dir: rtl
 book:
   title: "My Professional Book"
+  cover-image: cover.svg
   author: "Your Name"
   chapters:
     - index.qmd
@@ -32,6 +33,5 @@ format:
     mainfont: "Assistant" # Or "David Libre", "Frank Ruhl Libre"
     fontsize: 11pt
   epub:
-    cover-image: cover.jpg
   docx:
     toc: true

@@ -1,0 +1,23 @@
+<svg width="400" height="600" viewBox="0 0 400 600" xmlns="[http://www.w3.org/2000/svg](http://www.w3.org/2000/svg)">
+<rect width="400" height="600" fill="#3d1f11" />
+
+<rect x="15" y="15" width="370" height="570" fill="none" stroke="#d4af37" stroke-width="4" />
+
+<rect x="25" y="25" width="350" height="550" fill="none" stroke="#d4af37" stroke-width="1" stroke-dasharray="5 2" />
+
+<path d="M 50 540 L 50 180 C 50 80 350 80 350 180 L 350 540" fill="none" stroke="#d4af37" stroke-width="3" />
+
+<line x1="50" y1="540" x2="350" y2="540" stroke="#d4af37" stroke-width="3" />
+
+<text x="200" y="220" font-family="Serif, Georgia" font-size="52" font-weight="bold" fill="#d4af37" text-anchor="middle">ניקוי</text>
+<text x="200" y="290" font-family="Serif, Georgia" font-size="52" font-weight="bold" fill="#d4af37" text-anchor="middle">השולחן</text>
+
+<circle cx="200" y="340" r="15" fill="none" stroke="#d4af37" stroke-width="1" />
+<path d="M 170 340 L 230 340 M 200 310 L 200 370" stroke="#d4af37" stroke-width="1" />
+
+<text x="200" y="420" font-family="Serif, Georgia" font-size="18" fill="#d4af37" text-anchor="middle" font-style="italic">בירורים וחידושים בענייני סדר וטהרה</text>
+
+<text x="200" y="510" font-family="Serif, Georgia" font-size="14" fill="#d4af37" text-anchor="middle">מהדורה חדשה ומתוקנת</text>
+
+<path d="M 15 15 L 45 45 M 385 15 L 355 45 M 15 585 L 45 555 M 385 585 L 355 555" stroke="#d4af37" stroke-width="2" />
+</svg>
