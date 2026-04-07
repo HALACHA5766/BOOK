@@ -1,0 +1,42 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Professional Book",
+    "section": "",
+    "text": "1 הקדמה\nזהו ספר שנכתב בעזרת Quarto ו-Typst.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>הקדמה</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#פרק-ראשון-שלום-עולם",
+    "href": "index.html#פרק-ראשון-שלום-עולם",
+    "title": "My Professional Book",
+    "section": "1.1 פרק ראשון: שלום עולם",
+    "text": "1.1 פרק ראשון: שלום עולם\nכאן מתחיל התוכן של הספר שלך. מכיוון שהגדרנו dir: rtl, הטקסט ייושר לימין והמספרים יופיעו בצד המתאים.\n\nרשימה לדוגמה\nפריט שני\nפריט שלישי\n\n\n“ציטוט בעברית נראה מצוין בפורמט הזה.”",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>הקדמה</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "2  הקדמה",
+    "section": "",
+    "text": "2.1 פרק ראשון: שלום עולם\nזהו ספר שנכתב בעזרת Quarto ו-Typst.\nכאן מתחיל התוכן של הספר שלך. מכיוון שהגדרנו dir: rtl, הטקסט ייושר לימין והמספרים יופיעו בצד המתאים.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>הקדמה</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#פרק-ראשון-שלום-עולם",
+    "href": "intro.html#פרק-ראשון-שלום-עולם",
+    "title": "2  הקדמה",
+    "section": "",
+    "text": "רשימה לדוגמה\nפריט שני\nפריט שלישי\n\n\n“ציטוט בעברית נראה מצוין בפורמט הזה.”",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>הקדמה</span>"
+    ]
+  }
+]
