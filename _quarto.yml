@@ -1,0 +1,22 @@
+project:
+  type: book
+
+book:
+  title: "My Professional Book"
+  author: "Your Name"
+  chapters:
+    - index.qmd
+    - chapter1.qmd
+    - chapter2.qmd
+
+format:
+  html:
+    theme: cosmo
+  typst:
+    papersize: a4
+    section-numbering: 1.1.a
+    columns: 1
+  epub:
+    cover-image: cover.jpg
+  docx:
+    toc: true

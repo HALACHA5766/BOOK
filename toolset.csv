@@ -1,0 +1,7 @@
+Category,Tool,Function
+Writing & Logic,Quarto,The project manager that stitches your .qmd or .md files into a book.
+PDF Engine,Typst,"The modern, high-speed layout engine that creates your professional PDF."
+Web & Office,Pandoc,"(Built into Quarto) Handles the conversion to HTML, EPUB, and DOCX."
+Version Control,Git,"Tracks your edits, branches, and provides a ""safety net"" for your writing."
+Automation,GitHub Actions,"The ""CI/CD"" runner that renders your book and site automatically on every push."
+Hosting,GitHub Pages,"The free, public (or private) home for your live website and book downloads."
