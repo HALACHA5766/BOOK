@@ -12,7 +12,7 @@ book:
     - intro.md
     - mitzvot.md
     - sinaic_laws.md
-    # - chapter3.qmd
+    - orma.md
     # - chapter4.qmd
     # - chapter5.qmd
     # - chapter6.qmd
