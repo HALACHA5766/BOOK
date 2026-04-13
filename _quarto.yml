@@ -8,10 +8,10 @@ book:
   cover-image: cover.svg
   author: "Your Name"
   chapters:
-    - index.qmd
-    - intro.qmd
-    - mitzvot.qmd
-    # - chapter2.qmd
+    - index.md
+    - intro.md
+    - mitzvot.md
+    - sinaic_laws.md
     # - chapter3.qmd
     # - chapter4.qmd
     # - chapter5.qmd
